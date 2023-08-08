@@ -1,0 +1,31 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main button{
+  padding: 10px 30px;
+  color: #fff;
+}
+
+.incre{
+  background-color: green;
+}
+.decre{
+  background-color: red;
+}
+
+.allcolor input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 20px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.allcolor button{
+  color: black !important;
+}
